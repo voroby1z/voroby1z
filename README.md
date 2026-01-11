@@ -55,4 +55,4 @@
 <img src="https://img.icons8.com/?size=100&id=ejub91zEY6Sl&format=png&color=000000" title="Chrome" width="40" height="40"/>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pulij?theme=dark&font=Arial)
+![LeetCode Stats](https://leetcard.jacoblin.cool/voroby1z?theme=dark&font=Arial)
